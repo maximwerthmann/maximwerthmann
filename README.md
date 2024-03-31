@@ -5,6 +5,10 @@
 ### Technologies 👨‍💻
 A list of all the technologies which I use in my projects
 - [Supabase](https://GitHub.com/supabase)
+- [Vercel](https://GitHub.com/vercel)
+- [NextJS](https://GitHub.com/nextjs)
+- [Typescript](https://GitHub.com/typescript)
+
 
 ### Socials 
 [hi](hi)
