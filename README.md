@@ -4,6 +4,7 @@
 
 ### Technologies 👨‍💻
 A list of all the technologies which I use in my projects
+- [Supabase](https://GitHub.com/supabase)
 
 ### Socials 
 [hi](hi)
